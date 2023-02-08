@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>untagged on Hello Friend NG</title>
-    <link>https://TheNaciaaStrike.github.io/tags/untagged/</link>
-    <description>Recent content in untagged on Hello Friend NG</description>
+    <title>untagged on </title>
+    <link>/tags/untagged/</link>
+    <description>Recent content in untagged on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 22 Nov 2022 20:18:24 +0200</lastBuildDate>
     
-	<atom:link href="https://TheNaciaaStrike.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>this is a test page</title>
-      <link>https://TheNaciaaStrike.github.io/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Tue, 22 Nov 2022 20:18:24 +0200</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/posts/test/</guid>
+      <guid>/posts/test/</guid>
       <description>here is some cool linux terminal command
 sudo rm -fm / </description>
     </item>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>Blowfish</title>
     <link>https://TheNaciaaStrike.github.io/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 22 Nov 2022 20:18:24 +0200</lastBuildDate>
-    
-	<atom:link href="https://TheNaciaaStrike.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://TheNaciaaStrike.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>this is a test page</title>
-      <link>https://TheNaciaaStrike.github.io/posts/test/</link>
-      <pubDate>Tue, 22 Nov 2022 20:18:24 +0200</pubDate>
+      <title>Welcome to the home of broken Software!</title>
+      <link>https://TheNaciaaStrike.github.io/about/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/posts/test/</guid>
-      <description>here is some cool linux terminal command
-sudo rm -fm / </description>
+      <guid>https://TheNaciaaStrike.github.io/about/</guid>
+      <description>Welcome to my website! Even though I am a software enginier, most of my project are eitther private or not yet ready for public release. But I am working on it!</description>
+      
     </item>
     
   </channel>
