@@ -4,6 +4,78 @@
   
     
       <url>
+            <loc>https://TheNaciaaStrike.github.io/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/live/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/posts/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/schedule/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/stream/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/twitch/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://TheNaciaaStrike.github.io/about/</loc>
             <lastmod>2023-02-08T00:00:00+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -21,7 +93,7 @@
   
     
       <url>
-            <loc>https://TheNaciaaStrike.github.io/</loc>
+            <loc>https://TheNaciaaStrike.github.io/categories/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -29,7 +101,7 @@
   
     
       <url>
-            <loc>https://TheNaciaaStrike.github.io/categories/</loc>
+            <loc>https://TheNaciaaStrike.github.io/projects/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -45,7 +117,7 @@
   
     
       <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/</loc>
+            <loc>https://TheNaciaaStrike.github.io/yuuka/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
