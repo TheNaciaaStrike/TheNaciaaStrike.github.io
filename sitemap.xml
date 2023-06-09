@@ -13,6 +13,24 @@
   
     
       <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/chat/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://TheNaciaaStrike.github.io/tags/live/</loc>
             <lastmod>2023-02-23T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
@@ -22,7 +40,34 @@
   
     
       <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/minecraft/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/mod/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://TheNaciaaStrike.github.io/posts/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/proxy/</loc>
             <lastmod>2023-02-23T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -76,6 +121,69 @@
   
     
       <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/voice/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/yuuka/1_thewhat/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/automation/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/plants/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/projects/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/yuuka/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://TheNaciaaStrike.github.io/tags/yukka/</loc>
+            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://TheNaciaaStrike.github.io/about/</loc>
             <lastmod>2023-02-08T00:00:00+01:00</lastmod>
             <changefreq>daily</changefreq>
@@ -110,14 +218,6 @@
     
       <url>
             <loc>https://TheNaciaaStrike.github.io/series/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/yuuka/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
