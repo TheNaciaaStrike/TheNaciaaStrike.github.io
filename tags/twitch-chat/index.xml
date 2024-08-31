@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitch Chat on Blowfish</title>
+    <link>http://localhost:1313/tags/twitch-chat/</link>
+    <description>Recent content in Twitch Chat on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 TheNaciaaStrike</copyright>
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/twitch-chat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stream companion app</title>
+      <link>http://localhost:1313/projects/1_streamcompanioapp/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/1_streamcompanioapp/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

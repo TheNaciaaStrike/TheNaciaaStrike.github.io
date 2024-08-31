@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on Blowfish</title>
-    <link>https://TheNaciaaStrike.github.io/tags/schedule/</link>
+    <link>http://localhost:1313/tags/schedule/</link>
     <description>Recent content in Schedule on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://TheNaciaaStrike.github.io/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 TheNaciaaStrike</copyright>
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/schedule/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stream Schedule</title>
-      <link>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</link>
+      <link>http://localhost:1313/posts/4_streamschedule/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</guid>
+      <guid>http://localhost:1313/posts/4_streamschedule/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
+      
     </item>
     
   </channel>

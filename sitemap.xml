@@ -1,226 +1,140 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/chat/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/live/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/minecraft/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/mod/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/posts/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/proxy/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/schedule/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/stream/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/twitch/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/voice/</loc>
-            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/yuuka/1_thewhat/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/automation/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/plants/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/projects/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/yuuka/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/tags/yukka/</loc>
-            <lastmod>2023-02-22T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/about/</loc>
-            <lastmod>2023-02-08T00:00:00+01:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/authors/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/categories/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/projects/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://TheNaciaaStrike.github.io/series/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
+
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/originalchracters/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/stream/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/1_streamcompanioapp/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/twitch/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/twitch-bot/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/twitch-chat/</loc>
+    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/chat/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/5_guideforproxychat/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/live/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/minecraft/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/mod/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/proxy/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/schedule/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/4_streamschedule/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/voice/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-02-08T00:00:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

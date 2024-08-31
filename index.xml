@@ -2,47 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blowfish</title>
-    <link>https://TheNaciaaStrike.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://TheNaciaaStrike.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 TheNaciaaStrike</copyright>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stream companion app</title>
+      <link>http://localhost:1313/projects/1_streamcompanioapp/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/1_streamcompanioapp/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
     <item>
       <title>How to install proxy voice chat for minecraft 1.20</title>
-      <link>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</link>
+      <link>http://localhost:1313/posts/5_guideforproxychat/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</guid>
+      <guid>http://localhost:1313/posts/5_guideforproxychat/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
     
     <item>
       <title>Stream Schedule</title>
-      <link>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</link>
+      <link>http://localhost:1313/posts/4_streamschedule/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</guid>
+      <guid>http://localhost:1313/posts/4_streamschedule/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
     
     <item>
-      <title>1. The What?</title>
-      <link>https://TheNaciaaStrike.github.io/yuuka/1_thewhat/</link>
-      <pubDate>Wed, 22 Feb 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://TheNaciaaStrike.github.io/yuuka/1_thewhat/</guid>
-      <description>Learn more about Yuuka and why I am starting this project.</description>
-      
-    </item>
-    
-    <item>
       <title>Welcome to the home of broken Software!</title>
-      <link>https://TheNaciaaStrike.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0100</pubDate>
       
-      <guid>https://TheNaciaaStrike.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Welcome to my website! Even though I am a software enginier, most of my project are eitther private or not yet ready for public release. But I am working on it!</description>
       
     </item>
