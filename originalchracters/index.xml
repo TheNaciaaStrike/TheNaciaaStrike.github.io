@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Original characters on Blowfish</title>
-    <link>http://localhost:1313/originalchracters/</link>
+    <link>https://TheNaciaaStrike.github.io/originalchracters/</link>
     <description>Recent content in Original characters on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 TheNaciaaStrike</copyright>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/originalchracters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://TheNaciaaStrike.github.io/originalchracters/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stream on Blowfish</title>
-    <link>http://localhost:1313/tags/stream/</link>
+    <link>https://TheNaciaaStrike.github.io/tags/stream/</link>
     <description>Recent content in Stream on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 TheNaciaaStrike</copyright>
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stream/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://TheNaciaaStrike.github.io/tags/stream/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stream companion app</title>
-      <link>http://localhost:1313/projects/1_streamcompanioapp/</link>
+      <link>https://TheNaciaaStrike.github.io/projects/1_streamcompanioapp/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/1_streamcompanioapp/</guid>
+      <guid>https://TheNaciaaStrike.github.io/projects/1_streamcompanioapp/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
     
     <item>
       <title>How to install proxy voice chat for minecraft 1.20</title>
-      <link>http://localhost:1313/posts/5_guideforproxychat/</link>
+      <link>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/5_guideforproxychat/</guid>
+      <guid>https://TheNaciaaStrike.github.io/posts/5_guideforproxychat/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
     
     <item>
       <title>Stream Schedule</title>
-      <link>http://localhost:1313/posts/4_streamschedule/</link>
+      <link>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/4_streamschedule/</guid>
+      <guid>https://TheNaciaaStrike.github.io/posts/4_streamschedule/</guid>
       <description>Learn more about me and why I am starting this blog.</description>
       
     </item>
